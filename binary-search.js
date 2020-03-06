@@ -45,7 +45,6 @@ function binarySearch(arr, value) {
 }
 
 
-
 binarySearch(array, 4);
 binarySearch(array, 18);
 binarySearch(unSortedArray, 5);
